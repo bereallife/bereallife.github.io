@@ -1,0 +1,40 @@
+[
+  {
+    "name": "พระไตรปิฎก",
+    "link": "",
+    "items": [
+      {
+        "name": "Introduction",
+        "link": "/docs/template/get-started/introduction"
+      }
+    ]
+  },
+  {
+    "name": "พระวินัยปิฎก",
+    "link": "",
+    "items": [
+      { "name": "พระวินัยปิฎกเล่มที่ 1", "link": "/docs/template/document01/doc0101" },
+      { "name": "พระวินัยปิฎกเล่มที่ 2", "link": "/docs/template/document01/doc0102" },
+      { "name": "พระวินัยปิฎกเล่มที่ 3", "link": "/docs/template/document01/doc0103" },
+      { "name": "พระวินัยปิฎกเล่มที่ 4", "link": "/docs/template/document01/doc0104" },
+      { "name": "พระวินัยปิฎกเล่มที่ 5", "link": "/docs/template/document01/doc0105" },
+      { "name": "พระวินัยปิฎกเล่มที่ 6", "link": "/docs/template/document01/doc0106" },
+      { "name": "พระวินัยปิฎกเล่มที่ 7", "link": "/docs/template/document01/doc0107" },
+      { "name": "พระวินัยปิฎกเล่มที่ 8", "link": "/docs/template/document01/doc0108" }
+    ]
+  },
+  {
+    "name": "Lorem Ipsum",
+    "link": "",
+    "items": [
+      {
+        "name": "Ipsum",
+        "link": "/docs/template/lorem-ipsum/Ipsum"
+      },
+      {
+        "name": "Lorem",
+        "link": "/docs/template/lorem-ipsum/Lorem"
+      }
+    ]
+  }
+]
