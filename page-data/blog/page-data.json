@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-blog-tsx",
+    "path": "/blog",
+    "result": {"data":{"allMdx":{"edges":[{"node":{"fields":{"slug":"/blog/first-blog"},"id":"3dc3e877-0b7d-5b3b-becb-fd909469179e","excerpt":"First Blog Next Blog","frontmatter":{"date":"February 13, 2019","title":"First Blog"}}}]}},"pageContext":{}},
+    "staticQueryHashes": ["2778756830","3882232421"]}
