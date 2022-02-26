@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_antd_docs=self.webpackChunkgatsby_antd_docs||[]).push([[218],{938:function(e,t,n){n.r(t);var a=n(7294),r=n(1597),l=n(8682);t.default=function(){return a.createElement("div",{align:"center",style:{padding:80}},a.createElement("h1",null,"404: ขออภัยไม่พบหน้าที่คุณต้องการ"),a.createElement(l.Z.Group,{size:"large"},a.createElement(l.Z,{type:"primary",size:"large"},a.createElement(r.Link,{to:"/"},"กลับหน้าหลัก"))))}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-8bcdd9f22e675da83f73.js.map
