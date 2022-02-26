@@ -4,7 +4,7 @@ import { Button } from 'antd'
 
 const IndexPage = () => {
   return (
-    <div align='center' style={{ padding: 80 }}>
+    <div align="center" style={{ padding: 80 }}>
       <p>
         <h1  style={{
           color: 'cornflowerblue',
