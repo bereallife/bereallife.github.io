@@ -10,6 +10,7 @@ const IndexPage = () => {
           color: 'cornflowerblue',
           fontSize: 50,
           fontWeight: 'bold',
+          textAligns: 'center',
         }}
         >
         นะโม ตัสสะ ภะคะวะโต อะระหะโต สัมมาสัมพุทธัสสะ<br />
