@@ -4,13 +4,12 @@ import { Button } from 'antd'
 
 const IndexPage = () => {
   return (
-    <div style={{ padding: 80, alignItems: 'center' }}>
+    <div align='center' style={{ padding: 80 }}>
       <p>
         <h1  style={{
           color: 'cornflowerblue',
           fontSize: 50,
           fontWeight: 'bold',
-          textAligns: 'center',
         }}
         >
         นะโม ตัสสะ ภะคะวะโต อะระหะโต สัมมาสัมพุทธัสสะ<br />
