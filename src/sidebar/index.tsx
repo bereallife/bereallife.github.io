@@ -1,4 +1,4 @@
-import * as React from 'react'
+import React, { useState } from 'react'
 import { graphql, StaticQuery, Link } from 'gatsby'
 import { Affix, Menu } from 'antd'
 import 'antd/lib/menu/style/css'
@@ -46,6 +46,7 @@ function render(item: MenuItem, id: string) {
 }
 
 export function Sidebar() {
+  const [container, setContainer] = useState<HTMLDivElement | null>(null);
   return (
     <StaticQuery
       query={graphql`
@@ -74,7 +75,8 @@ export function Sidebar() {
         const defaultOpenKeys = rootItems.map((item) => item.id)
 
         return (
-          <Affix>
+          <div className="scrollable-container" ref={setContainer}>
+          <Affix target={() => container}>
             <Menu
               mode="inline"
               style={{ minWidth: 250, height: '100%', borderRight: 0 }}
@@ -84,6 +86,7 @@ export function Sidebar() {
               {rootItems.map((v) => render(v, v.id))}
             </Menu>
           </Affix>
+          </div>
         )
       }}
     />

@@ -4,7 +4,7 @@
     "link": "",
     "items": [
       {
-        "name": "Introduction",
+        "name": "บทนำ",
         "link": "/docs/template/get-started/introduction"
       }
     ]
@@ -24,17 +24,76 @@
     ]
   },
   {
-    "name": "Lorem Ipsum",
+    "name": "พระสุตตันตปิฎก เล่ม 1-3",
     "link": "",
     "items": [
-      {
-        "name": "Ipsum",
-        "link": "/docs/template/lorem-ipsum/Ipsum"
-      },
-      {
-        "name": "Lorem",
-        "link": "/docs/template/lorem-ipsum/Lorem"
-      }
+      { "name": "พระสุตตันตปิฎกเล่มที่ 1", "link": "/docs/template/document02/doc0201" },
+      { "name": "พระสุตตันตปิฎกเล่มที่ 2", "link": "/docs/template/document02/doc0202" },
+      { "name": "พระสุตตันตปิฎกเล่มที่ 3", "link": "/docs/template/document02/doc0203" }
+    ]
+  },
+  {
+    "name": "พระสุตตันตปิฎก เล่ม 4-6",
+    "link": "",
+    "items": [
+      { "name": "พระสุตตันตปิฎกเล่มที่ 4", "link": "/docs/template/document02/doc0204" },
+      { "name": "พระสุตตันตปิฎกเล่มที่ 5", "link": "/docs/template/document02/doc0205" },
+      { "name": "พระสุตตันตปิฎกเล่มที่ 6", "link": "/docs/template/document02/doc0206" }
+    ]
+  },
+  {
+    "name": "พระสุตตันตปิฎก เล่ม 7-11",
+    "link": "",
+    "items": [
+      { "name": "พระสุตตันตปิฎกเล่มที่ 7", "link": "/docs/template/document02/doc0207" },
+      { "name": "พระสุตตันตปิฎกเล่มที่ 8", "link": "/docs/template/document02/doc0208" },
+      { "name": "พระสุตตันตปิฎกเล่มที่ 9", "link": "/docs/template/document02/doc0209" },
+      { "name": "พระสุตตันตปิฎกเล่มที่ 10", "link": "/docs/template/document02/doc0210" },
+      { "name": "พระสุตตันตปิฎกเล่มที่ 11", "link": "/docs/template/document02/doc0211" }
+    ]
+  },
+  {
+    "name": "พระสุตตันตปิฎก เล่ม 12-16",
+    "link": "",
+    "items": [
+      { "name": "พระสุตตันตปิฎกเล่มที่ 12", "link": "/docs/template/document02/doc0212" },
+      { "name": "พระสุตตันตปิฎกเล่มที่ 13", "link": "/docs/template/document02/doc0213" },
+      { "name": "พระสุตตันตปิฎกเล่มที่ 14", "link": "/docs/template/document02/doc0214" },
+      { "name": "พระสุตตันตปิฎกเล่มที่ 15", "link": "/docs/template/document02/doc0215" },
+      { "name": "พระสุตตันตปิฎกเล่มที่ 16", "link": "/docs/template/document02/doc0216" }
+    ]
+  },
+  {
+    "name": "พระสุตตันตปิฎก เล่ม 17-25",
+    "link": "",
+    "items": [
+      { "name": "พระสุตตันตปิฎกเล่มที่ 17", "link": "/docs/template/document02/doc0217" },
+      { "name": "พระสุตตันตปิฎกเล่มที่ 18", "link": "/docs/template/document02/doc0218" },
+      { "name": "พระสุตตันตปิฎกเล่มที่ 19", "link": "/docs/template/document02/doc0219" },
+      { "name": "พระสุตตันตปิฎกเล่มที่ 20", "link": "/docs/template/document02/doc0220" },
+      { "name": "พระสุตตันตปิฎกเล่มที่ 21", "link": "/docs/template/document02/doc0221" },
+      { "name": "พระสุตตันตปิฎกเล่มที่ 22", "link": "/docs/template/document02/doc0222" },
+      { "name": "พระสุตตันตปิฎกเล่มที่ 23", "link": "/docs/template/document02/doc0223" },
+      { "name": "พระสุตตันตปิฎกเล่มที่ 24", "link": "/docs/template/document02/doc0224" },
+      { "name": "พระสุตตันตปิฎกเล่มที่ 25", "link": "/docs/template/document02/doc0225" }
+    ]
+  },
+  {
+    "name": "พระอภิธรรมปิฎก",
+    "link": "",
+    "items": [
+      { "name": "พระอภิธรรมปิฎกเล่มที่ 1", "link": "/docs/template/document03/doc0301" },
+      { "name": "พระอภิธรรมปิฎกเล่มที่ 2", "link": "/docs/template/document03/doc0302" },
+      { "name": "พระอภิธรรมปิฎกเล่มที่ 3", "link": "/docs/template/document03/doc0303" },
+      { "name": "พระอภิธรรมปิฎกเล่มที่ 4", "link": "/docs/template/document03/doc0304" },
+      { "name": "พระอภิธรรมปิฎกเล่มที่ 5", "link": "/docs/template/document03/doc0305" },
+      { "name": "พระอภิธรรมปิฎกเล่มที่ 6", "link": "/docs/template/document03/doc0306" },
+      { "name": "พระอภิธรรมปิฎกเล่มที่ 7", "link": "/docs/template/document03/doc0307" },
+      { "name": "พระอภิธรรมปิฎกเล่มที่ 8", "link": "/docs/template/document03/doc0308" },
+      { "name": "พระอภิธรรมปิฎกเล่มที่ 9", "link": "/docs/template/document03/doc0309" },
+      { "name": "พระอภิธรรมปิฎกเล่มที่ 10", "link": "/docs/template/document03/doc0310" },
+      { "name": "พระอภิธรรมปิฎกเล่มที่ 11", "link": "/docs/template/document03/doc0311" },
+      { "name": "พระอภิธรรมปิฎกเล่มที่ 12", "link": "/docs/template/document03/doc0312" }
     ]
   }
 ]
