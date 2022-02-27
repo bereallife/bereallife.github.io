@@ -29,3 +29,6 @@ body {
   font-feature-settings: "kern", "liga", "clig", "calt";
 }
 
+p {
+  font-size: 20px;
+}
